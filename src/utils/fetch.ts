@@ -1,4 +1,4 @@
-const API_KEY ='PYDWbvib05h0gcE59vhVDjfgUKCw5RlaZM2ONcHe';
+const API_KEY ='';
 const API_URL ='https://api.nasa.gov/planetary/apod';
  
 export default async (urlParams?:string | undefined)=>{
